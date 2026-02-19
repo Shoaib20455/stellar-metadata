@@ -1,4 +1,8 @@
+VERSION="2.0.0"
+
 [[CURRENCIES]]
 code="ZITOKEN"
 issuer="GD2HAM6GOH2EXLKMFRSLUM6FEPEZXHO4GCCJGRNMP3IX4VZ6CZXKD6LU"
+display_decimals=7
+name="Zitoken"
 image="https://aqua-traditional-capybara-43.mypinata.cloud/ipfs/bafybeicoy42femw7ebkh4lhzbrnfieao5tnmswrbpjpgcmbrsjhmfo7pba"
